@@ -1,0 +1,63 @@
+.contenedorModal {
+  border-style: groove;
+  border-width: 0.1px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 30vmin;
+}
+
+.encabezadoModal {
+  background-color: #a45a69;
+  justify-content: center;
+  width: 100%;
+  height: 50px;
+  align-items: center;
+  display: flex;
+}
+
+.tituloModal {
+  font-size: smaller;
+  font-family: 'Verdana';
+  text-align: justify;
+}
+
+.textoModal {
+  font-size: smaller;
+  font-family: 'Verdana';
+  text-align: justify;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.inputModal {
+  font-size: smaller;
+  font-family: 'Verdana';
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+.botonModal {
+  border-radius: 100%;
+  padding: 8px;
+  background-color: #a45a69;
+  color: white;
+  border-width: 0px;
+  font-size: smaller;
+  font-family: 'Verdana';
+}
+
+.formModal {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.spanError {
+  color: red;
+  font-size: small;
+  align-self: end;
+  margin-bottom: 10px;
+  margin-top: -10px;
+}

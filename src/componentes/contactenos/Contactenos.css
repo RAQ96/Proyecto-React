@@ -1,0 +1,32 @@
+.contenedorGeneralContactenos {
+  position: fixed;
+  bottom: 21px;
+  right: 25px;
+}
+
+.botonContactenos {
+  height: 51px;
+  width: 90px;
+  color: #A45A69;
+}
+
+.botonX {
+  height: 51px;
+  width: 90px;
+  color: #A45A69;
+}
+
+.leyendaContactenos {
+  position: absolute;
+  right: 80px;
+  bottom: 0.1px;
+  padding: 10px;
+  border-radius: 100%;
+  background-color: #D8D7D7;
+}
+
+.contenedorContactenos {
+  position: fixed;
+  bottom: 81px;
+  right: 25px;
+}

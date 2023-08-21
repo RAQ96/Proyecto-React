@@ -1,0 +1,21 @@
+.opcionMenu {
+  display: inline-block;
+}
+
+.linkMenu {
+  color: black;
+  background-color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-right: 1px dotted #cecece;
+  line-height: 45px;
+  font-size: 14px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+}
+
+.linkMenu:hover {
+  background-color: #a45a69;
+  color: white;
+}

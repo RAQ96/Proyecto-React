@@ -3,8 +3,9 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+  justify-content: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -35,4 +36,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.menuSuperior {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }

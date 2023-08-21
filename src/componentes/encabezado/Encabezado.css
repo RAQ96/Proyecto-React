@@ -1,0 +1,13 @@
+.contenedorEncabezado {
+  display: flex;
+  justify-content: center;
+  background-color: #A65F6E;
+}
+
+.logo {
+  height: 20vmin;
+  border-radius: 2vmin;
+  border-width: 0.4vmin;
+  border-color: #000;
+  border-style: dashed;
+}
